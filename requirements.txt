@@ -1,0 +1,7 @@
+# This file lists the dependencies required for your Python application.
+# You can use this file to install the dependencies using `pip`.
+
+# Add your dependencies below:
+dependency1
+dependency2
+dependency3
